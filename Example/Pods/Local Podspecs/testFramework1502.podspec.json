@@ -1,0 +1,22 @@
+{
+  "name": "testFramework1502",
+  "version": "0.1.0",
+  "summary": "A short description of testFramework1502.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/anijain15/testFramework1502",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anijain15": "anirudh.jain@wynk.in"
+  },
+  "source": {
+    "git": "https://github.com/anijain15/testFramework1502.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "testFramework1502/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - testFramework1502 (0.1.0)
+
+DEPENDENCIES:
+  - testFramework1502 (from `../`)
+
+EXTERNAL SOURCES:
+  testFramework1502:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  testFramework1502: aa066233fc6ed7dac75e1286b8257dea34def73a
+
+PODFILE CHECKSUM: 074d0e1d46ae6becb2082c142470de629482443e
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+framework module testFramework1502 {
+  umbrella header "testFramework1502-umbrella.h"
+
+  export *
+  module * { export * }
+}

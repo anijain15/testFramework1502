@@ -1,0 +1,11 @@
+{
+    "timeout" : "30",
+    "timeoutDownload" : "60",
+    "reportColor": "#ed1c24",
+    "orgName": "Wynk Music",
+    "Env": "PROD",
+    "PassStepScreenshots": "true",
+    "FailStepScreenshots": "true",
+    "consolidatedReport": "true",
+    "Mobile": "9650567451"
+}
