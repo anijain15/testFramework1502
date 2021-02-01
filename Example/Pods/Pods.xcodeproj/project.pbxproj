@@ -95,7 +95,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		205B8CE73018A191B918B1F9D818BDD2 /* testFramework1502.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = testFramework1502.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		205B8CE73018A191B918B1F9D818BDD2 /* testFramework1502.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = testFramework1502.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		2A52CA312B1FBA2A30AA17D3BD5DC640 /* Pods-testFramework1502_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-testFramework1502_Tests-umbrella.h"; sourceTree = "<group>"; };
 		3FE6426385B23241596913B3721C5F99 /* Pods-testFramework1502_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-testFramework1502_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4687041D734D0E785B918C855BCD79FF /* Pods-testFramework1502_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-testFramework1502_Tests-Info.plist"; sourceTree = "<group>"; };
